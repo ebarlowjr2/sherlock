@@ -4,12 +4,17 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
+Cults3D
+DeviantArt
 Discord.bio
 Envato Forum
 Giphy
+Gumroad
 Hashnode
 Hubski
-Motherless
+LessWrong
+Minecraft
+OurDJTalk
 Patched
 Rarible
 Realmeye
@@ -21,10 +26,12 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
 YandexMusic
+authorSTREAM
 dailykos
 igromania
 interpals
