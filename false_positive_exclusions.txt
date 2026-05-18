@@ -1,20 +1,19 @@
 7Cups
-APClips
 Airliners
+Anilist
 Apple Discussions
 Archive.org
+Audiojungle
 Bandcamp
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
 Envato Forum
+GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
-Minecraft
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -25,7 +24,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -38,4 +36,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
