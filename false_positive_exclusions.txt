@@ -12,7 +12,10 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
+LiveJournal
+Minecraft
 Patched
 Pornhub
 Rarible
@@ -20,8 +23,10 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
