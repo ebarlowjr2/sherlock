@@ -10,18 +10,20 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Hubski
-Minecraft
+Itch.io
+LessWrong
 Patched
 Rarible
 Realmeye
 Reddit
 Replit.com
 RocketTube
-RuneScape
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
