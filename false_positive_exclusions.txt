@@ -14,7 +14,6 @@ HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Patched
 Rarible
 Realmeye
