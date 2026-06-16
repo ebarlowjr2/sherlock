@@ -5,8 +5,8 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -16,6 +16,7 @@ HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Patched
 Pornhub
 Rarible
@@ -23,6 +24,7 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -41,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
