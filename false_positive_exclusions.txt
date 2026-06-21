@@ -15,7 +15,6 @@ Hubski
 LessWrong
 Minecraft
 Odysee
-OurDJTalk
 Patched
 Rarible
 Realmeye
@@ -37,7 +36,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
