@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -31,11 +32,9 @@ Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
-furaffinity
 igromania
 interpals
 mercadolivre
