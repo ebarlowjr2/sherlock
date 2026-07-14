@@ -1,12 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
 BreachSta.rs Forum
-CGTrader
 Codolio
 DeviantArt
 Discord.bio
@@ -41,8 +39,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
-xHamster
