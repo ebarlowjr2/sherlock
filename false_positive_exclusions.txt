@@ -3,6 +3,7 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive.org
 Bandcamp
 BreachSta.rs Forum
 Codolio
@@ -16,6 +17,7 @@ Hubski
 LessWrong
 Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
