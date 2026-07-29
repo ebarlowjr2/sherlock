@@ -9,12 +9,14 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Instapaper
 LessWrong
-NICommunityForum
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -23,6 +25,7 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+Scribd
 Shelf
 SlideShare
 Splice
@@ -34,7 +37,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 igromania
 interpals
 mercadolivre
