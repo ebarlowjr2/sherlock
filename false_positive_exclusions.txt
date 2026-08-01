@@ -12,8 +12,8 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-Gumroad
 Hashnode
+Houzz
 Hubski
 Instapaper
 LessWrong
@@ -21,7 +21,6 @@ Minecraft
 Odysee
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -34,6 +33,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
