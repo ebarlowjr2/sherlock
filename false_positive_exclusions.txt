@@ -18,12 +18,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LiveJournal
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
 Pornhub
+Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -33,8 +32,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
-Trakt
 Trovo
 TryHackMe
 Velomania
