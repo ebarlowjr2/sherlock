@@ -12,13 +12,10 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
