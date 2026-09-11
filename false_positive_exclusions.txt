@@ -3,10 +3,11 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+BabyRu
 Bandcamp
 Championat
-Chatujme.cz
 Codolio
+ColourLovers
 DeviantArt
 Discord.bio
 Envato Forum
@@ -16,8 +17,10 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+LushStories
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Rarible
 Realmeye
@@ -28,6 +31,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+TikTok
 Trakt
 Trovo
 TryHackMe
@@ -41,6 +45,7 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
