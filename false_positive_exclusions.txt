@@ -5,7 +5,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -14,17 +13,17 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Flipboard
 GaiaOnline
 GeeksforGeeks
 Giphy
-Google Play
+Gumroad
 HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -48,7 +47,6 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
-furaffinity
 hunting
 igromania
 interpals
@@ -57,3 +55,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
