@@ -22,9 +22,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-Minecraft
-NationStates Nation
-NationStates Region
 ObservableHQ
 Odysee
 PCGamer
@@ -53,3 +50,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
