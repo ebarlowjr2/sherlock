@@ -12,7 +12,9 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+GitLab
 HackerNews
+HackerRank
 Hashnode
 Houzz
 Hubski
@@ -41,6 +43,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
