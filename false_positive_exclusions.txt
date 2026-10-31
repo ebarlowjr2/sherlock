@@ -1,8 +1,10 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -18,8 +20,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -33,6 +35,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Vero
 YandexMusic
@@ -42,8 +45,8 @@ fixya
 hunting
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
