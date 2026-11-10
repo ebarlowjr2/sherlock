@@ -4,7 +4,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -24,13 +23,13 @@ Linktree
 Minecraft
 ObservableHQ
 Odysee
-Outgress
 PCGamer
 Rarible
 Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -50,3 +49,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
